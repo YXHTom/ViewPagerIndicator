@@ -239,7 +239,7 @@ Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab�
 **3.https://github.com/LuckyJayce/MultiTypeView**  
 简化RecyclerView的多种type的adapter，Fragment可以动态添加到RecyclerView上，实现复杂的界面分多个模块开发
 
-**4.https://github.com/LuckyJayce/EventBus**  
+**4.https://github.com/LuckyJayce/EventBus-Apt**  
 事件总线，通过动态代理接口的形式发布,接收事件。定义一个接口把事件发给注册并实现接口的类
 
 **5.https://github.com/LuckyJayce/LargeImage**  
@@ -260,12 +260,7 @@ Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab�
 项目 ViewPagerIndicator_Demo 是示例代码。 看了这个例子你会惊奇的发现里面居然都是通过viewpager实现，没有使用tabhost，而所有形式的tab都是用Indicator实现。
 项目 ViewPagerIndicator_Library 是类库
 
-有什么建议可以发到我的邮箱  794629068@qq.com  
-
-# 联系方式和问题建议
-
-* 微博:http://weibo.com/u/3181073384
-* QQ 群: 开源项目使用交流，问题解答: 549284336（开源盛世） 
+有什么建议可以发到我的邮箱  794629068@qq.com 
 
 License
 =======
